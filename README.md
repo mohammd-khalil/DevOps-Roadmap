@@ -4,7 +4,7 @@
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Linux Basics, File System, Users & Permissions, Process Management, Networking Commands, Shell Scripting |
-| **Resources** | <https://www.youtube.com/watch?v=oD5Y4Gzr6vw&list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7><br><https://www.youtube.com/watch?v=WMy3OzvBWc0> |
+| **Resources** | full playlist : <https://www.youtube.com/watch?v=oD5Y4Gzr6vw&list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7><br>crash course : <https://www.youtube.com/watch?v=WMy3OzvBWc0> |
 | **Practice** | Build a Linux lab using WSL or VirtualBox, create Bash scripts, learn SSH, cron jobs, permissions, and package managers. |
 
 ---
@@ -13,9 +13,13 @@
 
 | Section | Content |
 |---------|---------|
+
 | **Level** | Beginner |
+
 | **Learn** | Git Basics, Branching, Merge vs Rebase, Pull Requests, GitHub Workflow, Git Tags, GitHub Actions (Introduction) |
+
 | **Resources** | <https://www.youtube.com/watch?v=BOjHTIQTt80> |
+
 | **Practice** | Create repositories, open pull requests, resolve merge conflicts, and work with branches. |
 
 ---
