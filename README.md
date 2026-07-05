@@ -4,7 +4,7 @@
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Linux Basics, File System, Users & Permissions, Process Management, Networking Commands, Shell Scripting |
-| **Resources** | full playlist : <https://www.youtube.com/watch?v=oD5Y4Gzr6vw&list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7><br>crash course : <https://www.youtube.com/watch?v=WMy3OzvBWc0> |
+| **Resources** | Full playlist : <https://www.youtube.com/watch?v=oD5Y4Gzr6vw&list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7><br>Crash course : <https://www.youtube.com/watch?v=WMy3OzvBWc0> |
 | **Practice** | Build a Linux lab using WSL or VirtualBox, create Bash scripts, learn SSH, cron jobs, permissions, and package managers. |
 
 ---
