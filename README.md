@@ -39,7 +39,9 @@
       ↓
 🚀 Advanced Topics
 ```
-
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
 ---
 
 A complete roadmap to become a DevOps Engineer from beginner to advanced.
