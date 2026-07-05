@@ -69,13 +69,14 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 7 — GitLab CI/CD
+#  Phase 7 — Pipelines
 
 | Section | Content |
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Pipelines, Runners, Jobs, Stages, Variables, Deployments |
-| **Resources** | <https://www.youtube.com/watch?v=S-kpjjeDZGw&list=PLluZGtIpwF_BGuqt1MHJMmTz2JgV0u4e0&index=3> |
+| **Resources** | GtiHub Actions : <https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8> 
+GitLab CI/CD : <https://www.youtube.com/watch?v=S-kpjjeDZGw&list=PLluZGtIpwF_BGuqt1MHJMmTz2JgV0u4e0&index=3> |
 | **Practice** | Create build, test, Docker, and Kubernetes deployment pipelines. |
 
 ---
