@@ -75,7 +75,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Pipelines, Runners, Jobs, Stages, Variables, Deployments |
-| **Resources** | GtiHub Actions : <https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8><br>GitLab CI/CD : <https://www.youtube.com/watch?v=S-kpjjeDZGw&list=PLluZGtIpwF_BGuqt1MHJMmTz2JgV0u4e0&index=3>|
+| **Resources** | GtiHub Actions : <https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8><br>GitLab CI/CD : <https://www.youtube.com/watch?v=S-kpjjeDZGw&list=PLluZGtIpwF_BGuqt1MHJMmTz2JgV0u4e0&index=3>(The Video only not the playlist)|
 | **Practice** | Create build, test, Docker, and Kubernetes deployment pipelines. |
 
 ---
