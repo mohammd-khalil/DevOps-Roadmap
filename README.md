@@ -13,13 +13,9 @@
 
 | Section | Content |
 |---------|---------|
-
 | **Level** | Beginner |
-
 | **Learn** | Git Basics, Branching, Merge vs Rebase, Pull Requests, GitHub Workflow, Git Tags, GitHub Actions (Introduction) |
-
 | **Resources** | <https://www.youtube.com/watch?v=BOjHTIQTt80> |
-
 | **Practice** | Create repositories, open pull requests, resolve merge conflicts, and work with branches. |
 
 ---
