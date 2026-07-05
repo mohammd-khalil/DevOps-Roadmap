@@ -207,11 +207,11 @@ https://github.com/karanpratapsingh/system-design
 
 > These topics are intended for later stages of the roadmap after completing the core DevOps fundamentals.
 
-## Apache Kafka (TBD)
-## PostgreSQL (TBD)
-## Patroni PostgreSQL High Availability (TBD)
-## Keycloak (TBD)
-## Elasticsearch (TBD)
-## Observability & Monitoring (TBD)
+## - Apache Kafka.
+## - PostgreSQL.
+## - Patroni PostgreSQL High Availability. 
+## - Keycloak.
+## - Elasticsearch. 
+## - Observability & Monitoring. 
 
 
