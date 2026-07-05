@@ -1,4 +1,4 @@
-# 📘 Phase 1 — Linux
+#  Phase 1 — Linux
 
 | Section | Content |
 |---------|---------|
@@ -9,7 +9,7 @@
 
 ---
 
-# 📘 Phase 2 — Git & GitHub
+#  Phase 2 — Git & GitHub
 
 | Section | Content |
 |---------|---------|
@@ -20,7 +20,7 @@
 
 ---
 
-# 📘 Phase 3 — Python
+#  Phase 3 — Python
 
 | Section | Content |
 |---------|---------|
@@ -31,7 +31,7 @@
 
 ---
 
-# 📘 Phase 4 — Docker
+#  Phase 4 — Docker
 
 | Section | Content |
 |---------|---------|
@@ -42,7 +42,7 @@
 
 ---
 
-# 📘 Phase 5 — Kubernetes
+#  Phase 5 — Kubernetes
 
 | Section | Content |
 |---------|---------|
@@ -53,7 +53,7 @@
 
 ---
 
-# 📘 Phase 6 — Helm
+#  Phase 6 — Helm
 
 | Section | Content |
 |---------|---------|
@@ -64,7 +64,7 @@
 
 ---
 
-# 📘 Phase 7 — GitLab CI/CD
+#  Phase 7 — GitLab CI/CD
 
 | Section | Content |
 |---------|---------|
@@ -75,7 +75,7 @@
 
 ---
 
-# 📘 Phase 8 — System Design
+#  Phase 8 — System Design
 
 | Section | Content |
 |---------|---------|
