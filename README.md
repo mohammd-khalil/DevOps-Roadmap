@@ -201,65 +201,33 @@ https://github.com/karanpratapsingh/system-design
 * Design a File Storage System.
 
 ---
+---
 
-# - Final Projects
+# 🚧 Advanced Topics (TBD)
 
-## Beginner
+> These topics are intended for later stages of the roadmap after completing the core DevOps fundamentals.
 
-* Linux automation scripts
-* Dockerized Python application
-* Docker Compose project
-
-## Intermediate
-
-* GitLab CI pipeline
-* Kubernetes deployment
-* Helm chart
-* Multi-container application
-
-## Advanced
-
-* Deploy a microservices application on Kubernetes.
-* CI/CD pipeline with GitLab.
-* Monitoring and logging.
-* Blue/Green deployment.
-* Canary deployment.
+## Apache Kafka (TBD)
 
 ---
 
-# 📅 Recommended Learning Order
-
-```text
-Linux
-   ↓
-Git & GitHub
-   ↓
-Python
-   ↓
-Docker
-   ↓
-Kubernetes
-   ↓
-Helm
-   ↓
-GitLab CI/CD
-   ↓
-System Design
-   ↓
-Production Projects
-```
+## PostgreSQL (TBD)
 
 ---
 
-# ✅ Progress Tracker
+## Patroni PostgreSQL High Availability (TBD)
 
-* [ ] Linux
-* [ ] Git & GitHub
-* [ ] Python
-* [ ] Docker
-* [ ] Kubernetes
-* [ ] Helm
-* [ ] GitLab CI/CD
-* [ ] System Design
-* [ ] Final Projects
-* [ ] Portfolio Ready 🎉
+---
+
+## Keycloak (TBD)
+
+---
+
+## Elasticsearch (TBD)
+
+---
+
+## Observability & Monitoring (TBD)
+
+---
+
