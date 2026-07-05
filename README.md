@@ -1,7 +1,7 @@
 # 🚀 DevOps Roadmap
 
 <p align="center">
-  <img src="assets/devops-banner.png" alt="DevOps Roadmap Banner" width="900"/>
+  <img src="assets/devops-banner.jpeg" alt="DevOps Roadmap Banner" width="900"/>
 </p>
 
 <p align="center">
