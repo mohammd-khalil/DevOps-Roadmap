@@ -64,8 +64,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Charts, Values, Templates, Releases, Dependencies |
-| **Resources** | <https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1><br>
-Written Document : <https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link>|
+| **Resources** | <https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1><br>Written Document : <https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link> |
 | **Practice** | Package and deploy Kubernetes applications using Helm. |
 
 ---
