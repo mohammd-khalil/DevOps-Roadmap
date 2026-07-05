@@ -1,10 +1,10 @@
-# 🚀 DevOps Roadmap
+# DevOps Roadmap
 
 A practical roadmap for becoming a DevOps Engineer with free resources and hands-on projects.
 
 ---
 
-# 📚 Phase 1 — Linux
+# - Phase 1 — Linux
 
 ## Learn
 
@@ -31,7 +31,7 @@ A practical roadmap for becoming a DevOps Engineer with free resources and hands
 
 ---
 
-# 🌐 Phase 2 — Git & GitHub
+# - Phase 2 — Git & GitHub
 
 ## Learn
 
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=BOjHTIQTt80
 
 ---
 
-# 🐍 Phase 3 — Python
+# - Phase 3 — Python
 
 ## Learn
 
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=nLRL_NcnK-4
 
 ---
 
-# 🐳 Phase 4 — Docker
+# - Phase 4 — Docker
 
 ## Learn
 
@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWV
 
 ---
 
-# ☸️ Phase 5 — Kubernetes
+# - Phase 5 — Kubernetes
 
 ## Learn
 
@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rR
 
 ---
 
-# ⛵ Phase 6 — Helm
+# - Phase 6 — Helm
 
 ## Learn
 
@@ -154,7 +154,7 @@ https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6Gu
 
 ---
 
-# ⚙️ Phase 7 — GitLab CI/CD
+# - Phase 7 — GitLab CI/CD
 
 ## Learn
 
@@ -178,7 +178,7 @@ https://www.youtube.com/watch?v=S-kpjjeDZGw&list=PLluZGtIpwF_BGuqt1MHJMmTz2JgV0u
 
 ---
 
-# 🏗️ Phase 8 — System Design
+# - Phase 8 — System Design
 
 ## Learn
 
@@ -202,7 +202,7 @@ https://github.com/karanpratapsingh/system-design
 
 ---
 
-# 🎯 Final Projects
+# - Final Projects
 
 ## Beginner
 
