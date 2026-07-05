@@ -1,4 +1,46 @@
-# DevOps Roadmap
+# 🚀 DevOps Roadmap
+
+<p align="center">
+  <img src="assets/devops-banner.png" alt="DevOps Roadmap Banner" width="900"/>
+</p>
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</p>
+
+---
+
+## 📚 Learning Path
+
+```text
+🐧 Linux
+      ↓
+🌿 Git & GitHub
+      ↓
+🐍 Python
+      ↓
+🐳 Docker
+      ↓
+☸️ Kubernetes
+      ↓
+⛵ Helm
+      ↓
+⚙️ CI/CD
+      ↓
+🏗️ System Design
+      ↓
+🚀 Advanced Topics
+```
+
+---
 
 A complete roadmap to become a DevOps Engineer from beginner to advanced.
 ---
