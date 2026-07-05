@@ -19,7 +19,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 | Section | Content |
 |---------|---------|
 | **Level** | Beginner |
-| **Learn** | Git Basics, Branching, Merge vs Rebase, Pull Requests, GitHub Workflow, Git Tags, GitHub Actions (Introduction)             |
+| **Learn** | Git Basics, Branching, Merge vs Rebase, Pull Requests, GitHub Workflow, Git Tags, GitHub Actions (Introduction)              |
 | **Resources** | <https://www.youtube.com/watch?v=BOjHTIQTt80> |
 | **Practice** | Create repositories, open pull requests, resolve merge conflicts, and work with branches. |
 
@@ -30,7 +30,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 | Section | Content |
 |---------|---------|
 | **Level** | Beginner |
-| **Learn** | Variables, Functions, OOP, File Handling, APIs, JSON, Automation Scripts |
+| **Learn** | Variables, Functions, OOP, File Handling, APIs, JSON, Automation Scripts                                                   |
 | **Resources** | <https://www.youtube.com/watch?v=nLRL_NcnK-4> |
 | **Practice** | Build a log parser, file organizer, API automation script, and backup script. |
 
@@ -42,7 +42,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner → Intermediate |
 | **Learn** | Images, Containers, Volumes, Networks, Dockerfile, Docker Compose, Docker Registry |
-| **Resources** | <https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=1> |
+| **Resources** | <https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=1>                           |
 | **Practice** | Dockerize Python and Node.js apps, create multi-stage builds, push images to Docker Hub. |
 
 ---
@@ -52,7 +52,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 | Section | Content |
 |---------|---------|
 | **Level** | Intermediate |
-| **Learn** | Pods, ReplicaSets, Deployments, Services, ConfigMaps, Secrets, Volumes, Ingress, Namespaces |
+| **Learn** | Pods, ReplicaSets, Deployments, Services, ConfigMaps, Secrets, Volumes, Ingress, Namespaces                                  |
 | **Resources** | <https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl> |
 | **Practice** | Deploy Nginx and Flask applications, perform rolling updates, configure autoscaling. |
 
@@ -64,7 +64,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Charts, Values, Templates, Releases, Dependencies |
-| **Resources** | <https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1><br>Written Document : <https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link> |
+| **Resources** | <https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1><br>Written Document : <https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link>                                                          |
 | **Practice** | Package and deploy Kubernetes applications using Helm. |
 
 ---
@@ -74,7 +74,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 | Section | Content |
 |---------|---------|
 | **Level** | Intermediate |
-| **Learn** | Pipelines, Runners, Jobs, Stages, Variables, Deployments |
+| **Learn** | Pipelines, Runners, Jobs, Stages, Variables, Deployments                                                                     |
 | **Resources** | GtiHub Actions : <https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8><br>GitLab CI/CD : <https://www.youtube.com/watch?v=S-kpjjeDZGw&list=PLluZGtIpwF_BGuqt1MHJMmTz2JgV0u4e0&index=3> (The Video only not the playlist)|
 | **Practice** | Create build, test, Docker, and Kubernetes deployment pipelines. |
 
@@ -85,7 +85,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 | Section | Content |
 |---------|---------|
 | **Level** | Intermediate |
-| **Learn** | Scalability, Load Balancers, Databases, Caching, Message Queues, CAP Theorem, Distributed Systems |
+| **Learn** | Scalability, Load Balancers, Databases, Caching, Message Queues, CAP Theorem, Distributed Systems                              |
 | **Resources** | <https://github.com/karanpratapsingh/system-design> |
 | **Practice** | Design a URL Shortener, Chat Application, and File Storage System. |
 
@@ -95,7 +95,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 | Topic | Status |
 |-------|--------|
-| Apache Kafka | ⏳ TBD |
+| Apache Kafka | ⏳ TBD                                                                                                                       |
 | PostgreSQL | ⏳ TBD |
 | Patroni PostgreSQL HA | ⏳ TBD |
 | Keycloak | ⏳ TBD |
