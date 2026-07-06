@@ -1,4 +1,3 @@
-# 🚀 DevOps Roadmap
 <h1 align="center">🚀 DevOps Roadmap</h1>
 
 <p align="center">
