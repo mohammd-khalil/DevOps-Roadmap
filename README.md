@@ -41,7 +41,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 A complete roadmap to become a DevOps Engineer from beginner to advanced.
 ---
 
-#  Phase 1 — Linux
+# 🐧 Phase 1 — Linux
 
 | Section | Content |
 |---------|---------|
@@ -52,7 +52,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 2 — Git & GitHub
+# 🌿 Phase 2 — Git & GitHub
 
 | Section | Content |
 |---------|---------|
@@ -63,7 +63,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 3 — Python
+# 🐍 Phase 3 — Python
 
 | Section | Content |
 |---------|---------|
@@ -74,7 +74,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 4 — Docker
+# 🐳 Phase 4 — Docker
 
 | Section | Content |
 |---------|---------|
@@ -85,7 +85,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 5 — Kubernetes
+# ☸️ Phase 5 — Kubernetes
 
 | Section | Content |
 |---------|---------|
@@ -96,7 +96,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 6 — Helm
+# ⛵ Phase 6 — Helm
 
 | Section | Content |
 |---------|---------|
@@ -107,7 +107,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 7 — Pipelines
+# ⚙️ Phase 7 — Pipelines
 
 | Section | Content |
 |---------|---------|
@@ -118,7 +118,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 ---
 
-#  Phase 8 — System Design
+# 🏗️ Phase 8 — System Design
 
 | Section | Content |
 |---------|---------|
@@ -133,9 +133,9 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 | Topic | Status |
 |-------|--------|
-| Apache Kafka | ⏳ TBD                                                                                                                       |
-| PostgreSQL | ⏳ TBD |
-| Patroni PostgreSQL HA | ⏳ TBD |
-| Keycloak | ⏳ TBD |
-| Elasticsearch | ⏳ TBD |
-| Observability & Monitoring | ⏳ TBD |
+| Apache Kafka | ⏳                                                                                                                        |
+| PostgreSQL | ⏳  |
+| Patroni PostgreSQL HA | ⏳  |
+| Keycloak | ⏳  |
+| Elasticsearch | ⏳  |
+| Observability & Monitoring | ⏳  |
