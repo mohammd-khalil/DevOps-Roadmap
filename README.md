@@ -69,7 +69,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Variables, Functions, OOP, File Handling, APIs, JSON, Automation Scripts                                                   |
-| **Resources** | [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) |
+| **Resources** | [Harvard Course](https://www.youtube.com/watch?v=nLRL_NcnK-4) |
 | **Practice** | Build a log parser, file organizer, API automation script, and backup script. |
 
 ---
@@ -91,7 +91,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Pods, ReplicaSets, Deployments, Services, ConfigMaps, Secrets, Volumes, Ingress, Namespaces                                  |
-| **Resources** | [Youtube](https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) |
+| **Resources** | Full playlist : [Youtube](https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) |
 | **Practice** | Deploy Nginx and Flask applications, perform rolling updates, configure autoscaling. |
 
 ---
@@ -102,7 +102,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Charts, Values, Templates, Releases, Dependencies |
-| **Resources** | [Youtube](https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1)<br>[Notion Document](https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link)                                                          |
+| **Resources** | Playlist : [Youtube](https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1)<br>[Notion Document](https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link)                                                          |
 | **Practice** | Package and deploy Kubernetes applications using Helm. |
 
 ---
