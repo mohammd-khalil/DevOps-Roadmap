@@ -102,7 +102,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Charts, Values, Templates, Releases, Dependencies |
-| **Resources** | Playlist : [Youtube](https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1)<br>[Notion Document](https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link)                                                          |
+| **Resources** | Playlist : [Youtube](https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1)<br>Written Dcoument : [Notion Document](https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link)                                                          |
 | **Practice** | Package and deploy Kubernetes applications using Helm. |
 
 ---
@@ -113,7 +113,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Pipelines, Runners, Jobs, Stages, Variables, Deployments                                                                     |
-| **Resources** | [GtiHub Actions with Alfakharany](https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8)<br>[GitLab CI/CD With NANA](https://youtu.be/qP8kir2GUgo?si=m6BdKASyYlnWq5c5)|
+| **Resources** | [GtiHub Actions with Alfakharany On Youtube](https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8)<br>[GitLab CI/CD With NANA On Youtube](https://youtu.be/qP8kir2GUgo?si=m6BdKASyYlnWq5c5)|
 | **Practice** | Create build, test, Docker, and Kubernetes deployment pipelines. |
 
 ---
@@ -124,7 +124,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Scalability, Load Balancers, Databases, Caching, Message Queues, CAP Theorem, Distributed Systems                              |
-| **Resources** | [Repository](https://github.com/karanpratapsingh/system-design) |
+| **Resources** | [GitHub Repository](https://github.com/karanpratapsingh/system-design) |
 | **Practice** | Design a URL Shortener, Chat Application, and File Storage System. |
 
 ---
