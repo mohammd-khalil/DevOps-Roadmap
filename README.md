@@ -69,7 +69,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Variables, Functions, OOP, File Handling, APIs, JSON, Automation Scripts                                                   |
-| **Resources** | [Harvard Course](https://www.youtube.com/watch?v=nLRL_NcnK-4) |
+| **Resources** | [Harvard Course On Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) |
 | **Practice** | Build a log parser, file organizer, API automation script, and backup script. |
 
 ---
