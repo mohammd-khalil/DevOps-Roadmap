@@ -47,7 +47,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Linux Basics, File System, Users & Permissions, Process Management, Networking Commands, Shell Scripting |
-| **Resources** | Full playlist : <https://www.youtube.com/watch?v=oD5Y4Gzr6vw&list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7><br>Crash course : <https://www.youtube.com/watch?v=WMy3OzvBWc0> |
+| **Resources** | Full playlist : [Mostafa Hammouda](https://www.youtube.com/watch?v=oD5Y4Gzr6vw&list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7)<br>Crash course : [FreeCodeCamp](https://www.youtube.com/watch?v=WMy3OzvBWc0)|
 | **Practice** | Build a Linux lab using WSL or VirtualBox, create Bash scripts, learn SSH, cron jobs, permissions, and package managers. |
 
 ---
@@ -58,7 +58,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Git Basics, Branching, Merge vs Rebase, Pull Requests, GitHub Workflow, Git Tags, GitHub Actions (Introduction)              |
-| **Resources** | <https://www.youtube.com/watch?v=BOjHTIQTt80> |
+| **Resources** | [Youtube](https://www.youtube.com/watch?v=BOjHTIQTt80) |
 | **Practice** | Create repositories, open pull requests, resolve merge conflicts, and work with branches. |
 
 ---
@@ -69,7 +69,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner |
 | **Learn** | Variables, Functions, OOP, File Handling, APIs, JSON, Automation Scripts                                                   |
-| **Resources** | <https://www.youtube.com/watch?v=nLRL_NcnK-4> |
+| **Resources** | [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) |
 | **Practice** | Build a log parser, file organizer, API automation script, and backup script. |
 
 ---
@@ -80,7 +80,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Beginner → Intermediate |
 | **Learn** | Images, Containers, Volumes, Networks, Dockerfile, Docker Compose, Docker Registry |
-| **Resources** | <https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=1>                           |
+| **Resources** | Full playlist : [Codographia](https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=1)<br>Crash Course : [Dolfined](https://youtu.be/3suEXkZI6Dc?si=dcUxUksaKeuY89p1)|
 | **Practice** | Dockerize Python and Node.js apps, create multi-stage builds, push images to Docker Hub. |
 
 ---
@@ -91,7 +91,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Pods, ReplicaSets, Deployments, Services, ConfigMaps, Secrets, Volumes, Ingress, Namespaces                                  |
-| **Resources** | <https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl> |
+| **Resources** | [Youtube](https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) |
 | **Practice** | Deploy Nginx and Flask applications, perform rolling updates, configure autoscaling. |
 
 ---
@@ -102,7 +102,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Charts, Values, Templates, Releases, Dependencies |
-| **Resources** | Youtube : <https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1><br>Notion Document : <https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link>                                                          |
+| **Resources** | [Youtube](https://www.youtube.com/watch?v=x77NzZxj670&list=PLSwo-wAGP1b8svO5fbAr7ko2Buz6GuH1g&index=1)<br>[Notion Document](https://app.notion.com/p/Helm-35f310f8d1ad80b0a962ef47a9059fb6?source=copy_link)                                                          |
 | **Practice** | Package and deploy Kubernetes applications using Helm. |
 
 ---
@@ -113,7 +113,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Pipelines, Runners, Jobs, Stages, Variables, Deployments                                                                     |
-| **Resources** | GtiHub Actions : <https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8><br>GitLab CI/CD : [Youtube](https://youtu.be/qP8kir2GUgo?si=m6BdKASyYlnWq5c5)|
+| **Resources** | [GtiHub Actions with Alfakharany](https://youtu.be/7gJFHjXscr8?si=LEaIeFfy0vycwUr8)<br>[GitLab CI/CD With NANA](https://youtu.be/qP8kir2GUgo?si=m6BdKASyYlnWq5c5)|
 | **Practice** | Create build, test, Docker, and Kubernetes deployment pipelines. |
 
 ---
@@ -124,7 +124,7 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 |---------|---------|
 | **Level** | Intermediate |
 | **Learn** | Scalability, Load Balancers, Databases, Caching, Message Queues, CAP Theorem, Distributed Systems                              |
-| **Resources** | repo : <https://github.com/karanpratapsingh/system-design> |
+| **Resources** | [Repository](https://github.com/karanpratapsingh/system-design) |
 | **Practice** | Design a URL Shortener, Chat Application, and File Storage System. |
 
 ---
