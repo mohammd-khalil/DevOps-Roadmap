@@ -133,7 +133,8 @@ A complete roadmap to become a DevOps Engineer from beginner to advanced.
 
 | Topic | Status |
 |-------|--------|
-| Apache Kafka | ⏳                                                                                                                        |
+| AWS Cloud Practitioner | ⏳  |
+| Apache Kafka | ⏳  |
 | PostgreSQL | ⏳  |
 | Patroni PostgreSQL HA | ⏳  |
 | Keycloak | ⏳  |
